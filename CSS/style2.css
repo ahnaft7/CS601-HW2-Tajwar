@@ -55,31 +55,6 @@ nav ul li {
     line-height: 30px;
 }
 
-
-/*nav {
-    background: #9EA5A2;
-    height: 80px;
-    width: 100%;
-}
-label.logo{
-    font-size: 30px;
-    line-height: 70px;
-    padding: 0 100px;
-    font-weight: bold;
-}*/
-/*h1.name {
-    font-size: 30px;
-    line-height: 50px;
-    padding: 0 100px;
-    font-weight: bold;
-}
-h3.role {
-    font-size: 19px;
-    line-height: 20px;
-    padding: 0 100px;
-    font-weight: bold;
-}*/
-
 nav ul li a {
     color: black;
     font-size: 17px;
