@@ -73,6 +73,19 @@ a.active,a:hover{
     background: #777;
     transition: .5s;
 }
+@media (max-width: 950px) {
+    .container {
+        text-align: center;
+    }
+
+    .container-nav {
+        flex-direction: column;
+    }
+
+    nav li {
+        margin: 0.8em 0;
+    }
+}
 
 @media (max-width: 640px) {
     .container {
